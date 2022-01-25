@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-oslogin/#history
 
+## [2.6.0](https://github.com/googleapis/python-oslogin/compare/v2.5.1...v2.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#144](https://github.com/googleapis/python-oslogin/issues/144)) ([1bc7f50](https://github.com/googleapis/python-oslogin/commit/1bc7f50756b0a574285b3ed11ef71305c938e891))
+
 ### [2.5.1](https://www.github.com/googleapis/python-oslogin/compare/v2.5.0...v2.5.1) (2021-11-01)
 
 
